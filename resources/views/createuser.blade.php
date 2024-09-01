@@ -34,6 +34,7 @@
                     <input type="password" class="form-control" id="password" name="password" required>
                 </div>
                 <button type="submit" class="btn btn-primary w-100">Signup</button>
+                
             </form>
             <div class="mt-3">
                 <p>You have an account? <a href="login">Login</a>.</p>
